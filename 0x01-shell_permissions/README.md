@@ -1,1 +1,2 @@
-my_shell_permission
+shell permission
+how to understand shell perrmission
