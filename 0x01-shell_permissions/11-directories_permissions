@@ -1,2 +1,2 @@
 #!/bin/bash
- --recursive ugoX . 
+ --recursive ugo+X . 
