@@ -1,2 +1,2 @@
-#!bin/bash
-ls -t | head
+#!bin/basht
+head -10 . -f
